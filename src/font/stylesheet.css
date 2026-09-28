@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Catorze27 Style 1';
+    src: url('Catorze27Style1-Thin.eot');
+    src: local('Catorze27 Style1 Thin'), local('Catorze27Style1-Thin'),
+        url('Catorze27Style1-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Catorze27Style1-Thin.woff2') format('woff2'),
+        url('Catorze27Style1-Thin.woff') format('woff'),
+        url('Catorze27Style1-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Catorze27 Style 1';
+    src: url('Catorze27Style1-SemiBold.eot');
+    src: local('Catorze27 Style1 SemiBold'), local('Catorze27Style1-SemiBold'),
+        url('Catorze27Style1-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Catorze27Style1-SemiBold.woff2') format('woff2'),
+        url('Catorze27Style1-SemiBold.woff') format('woff'),
+        url('Catorze27Style1-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Catorze27 Style 1';
+    src: url('Catorze27Style1-Black.eot');
+    src: local('Catorze27 Style1 Black'), local('Catorze27Style1-Black'),
+        url('Catorze27Style1-Black.eot?#iefix') format('embedded-opentype'),
+        url('Catorze27Style1-Black.woff2') format('woff2'),
+        url('Catorze27Style1-Black.woff') format('woff'),
+        url('Catorze27Style1-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Catorze27 Style 1 Book';
+    src: url('Catorze27Style1-Book.eot');
+    src: local('Catorze27 Style1 Book'), local('Catorze27Style1-Book'),
+        url('Catorze27Style1-Book.eot?#iefix') format('embedded-opentype'),
+        url('Catorze27Style1-Book.woff2') format('woff2'),
+        url('Catorze27Style1-Book.woff') format('woff'),
+        url('Catorze27Style1-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Catorze27 Style 1';
+    src: url('Catorze27Style1-Bold.eot');
+    src: local('Catorze27 Style1 Bold'), local('Catorze27Style1-Bold'),
+        url('Catorze27Style1-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Catorze27Style1-Bold.woff2') format('woff2'),
+        url('Catorze27Style1-Bold.woff') format('woff'),
+        url('Catorze27Style1-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Catorze27 Style 1';
+    src: url('Catorze27Style1-Medium.eot');
+    src: local('Catorze27 Style1 Medium'), local('Catorze27Style1-Medium'),
+        url('Catorze27Style1-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Catorze27Style1-Medium.woff2') format('woff2'),
+        url('Catorze27Style1-Medium.woff') format('woff'),
+        url('Catorze27Style1-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Catorze27 Style 1';
+    src: url('Catorze27Style1-Light.eot');
+    src: local('Catorze27 Style1 Light'), local('Catorze27Style1-Light'),
+        url('Catorze27Style1-Light.eot?#iefix') format('embedded-opentype'),
+        url('Catorze27Style1-Light.woff2') format('woff2'),
+        url('Catorze27Style1-Light.woff') format('woff'),
+        url('Catorze27Style1-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+

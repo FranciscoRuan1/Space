@@ -1,5 +1,19 @@
+@font-face {
+  font-family: 'space';
+  src: url('../src/font/Catorze27Style1-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'cyan';
+  src: url('../src/font/cyan-capitals.otf') format('opentype');
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+:root {
+    --font-space: 'space';
+    --font-cyan: 'cyan';
 }
